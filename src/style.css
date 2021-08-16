@@ -1,1 +1,12 @@
 /* styles go here */
+fieldset {
+  margin-bottom: 20px;
+}
+
+div {
+  padding-bottom: 10px;
+}
+
+div:last-of-type {
+  padding-bottom: 0;
+}
